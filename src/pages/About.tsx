@@ -69,13 +69,14 @@ const About = () => {
             </div>
           </div>
 
-          <div className="relative aspect-[16/9] overflow-hidden group">
-             <div className="absolute inset-0 bg-brand-gold/10 group-hover:bg-transparent transition-colors duration-700 z-10" />
-             <img 
-               src="https://images.unsplash.com/photo-1526047932273-341f2a7631f9?q=80&w=1500&auto=format&fit=crop" 
-               alt="Aesthetic workspace"
+          <div className="relative aspect-[16/9] overflow-hidden group shadow-2xl rounded-2xl">
+             <video 
+               src="commercial_use_ads_product_202605020732.mp4"
+               autoPlay
+               muted
+               loop
+               playsInline
                className="w-full h-full object-cover transition-transform duration-[2000ms] group-hover:scale-105"
-               referrerPolicy="no-referrer"
              />
           </div>
 
