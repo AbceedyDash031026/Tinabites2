@@ -69,16 +69,7 @@ const About = () => {
             </div>
           </div>
 
-          <div className="relative aspect-[16/9] overflow-hidden group shadow-2xl rounded-2xl">
-             <video 
-               src="commercial_use_ads_product_202605020732.mp4"
-               autoPlay
-               muted
-               loop
-               playsInline
-               className="w-full h-full object-cover transition-transform duration-[2000ms] group-hover:scale-105"
-             />
-          </div>
+
 
           {/* Core Values */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-16 border-y border-brand-beige py-20">
