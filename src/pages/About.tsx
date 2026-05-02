@@ -60,7 +60,7 @@ const About = () => {
                 </p>
                 <div className="pt-2">
                   <p className="text-[10px] uppercase tracking-[0.4em] font-bold text-brand-gold">Valentina Cinio</p>
-                  <p className="text-[10px] text-brand-charcoal/40 uppercase tracking-widest font-medium">Founder of Tina Bites</p>
+                  <p className="text-[10px] text-brand-charcoal/40 uppercase tracking-widest font-medium">CEO</p>
                 </div>
               </div>
               <p className="text-brand-charcoal/40 leading-relaxed font-light italic text-sm">

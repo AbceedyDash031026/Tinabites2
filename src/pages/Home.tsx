@@ -204,7 +204,7 @@ const Home = () => {
           </h2>
           <div className="space-y-2">
             <p className="text-[10px] uppercase tracking-[0.4em] font-bold text-brand-gold">Valentina Cinio</p>
-            <p className="text-sm font-light uppercase tracking-widest">Founder & Creative Director</p>
+            <p className="text-sm font-light uppercase tracking-widest">CEO</p>
           </div>
         </div>
       </section>
